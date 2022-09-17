@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm jinsung Kim student of gachon univ.
+
+My github will be more interesting 👌
 
 <!--
 **smileman62/smileman62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
