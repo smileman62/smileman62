@@ -1,7 +1,20 @@
-### Hi there 👋
-I'm jinsung Kim student of gachon univ.
+# 프론트엔드 개발자 김진성입니다. 👋
 
-My github will be more interesting 👌
+## 사용자의 시각에서 먼저 생각합니다. 💭🤔
+
+> 기능 구현에 그치지 않고, 사용자 흐름을 먼저 고민하는 UI/UX 중심의 개발을 추구합니다.
+> 
+
+## 함께일 때 더 큰 가치를 만들어낼 수 있다고 생각합니다. 👨‍👩‍👧‍👦
+
+> 코드 리뷰와 협업 프로세스를 통해 팀과 함께 성장하는 개발 문화를 중요하게 생각합니다.
+> 
+
+## 배움에는 끝이 없습니다. 📝
+
+> 부족한 것이 있다면 더 열심히 배운다는 마인드로 성장 중입니다.
+배운 것을 정리하는 [블로그](https://jskim6335.tistory.com/)를 운영하고 있습니다.
+>
 
 <!--
 **smileman62/smileman62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
