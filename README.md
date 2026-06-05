@@ -4,15 +4,32 @@
 
 # 😎 프론트엔드 개발자 김진성입니다
 
-안녕하세요! UI/UX에 관심이 많은 프론트엔드 개발자 김진성입니다.<br>
-저는 제가 만든 화면이 사용자와 소통하고, 서비스가 전달하고자 하는 가치를 자연스럽게 보여줄 때 가장 큰 보람을 느낍니다.
+안녕하세요! **UI/UX에 관심이 많은 프론트엔드 개발자 김진성**입니다.<br>
+저는 제가 만든 화면이 **사용자와 소통하고**, 서비스가 전달하고자 하는 **가치를 자연스럽게 보여줄 때** 가장 큰 보람을 느낍니다.
 
-단순히 기능이 동작하는 화면을 만드는 것에 그치지 않고, 사용자가 서비스를 이해하고 이용하는 흐름까지 고민하는 개발자가 되고자 합니다.<br>
-React와 Next.js를 중심으로 웹 프론트엔드를 학습하고 있으며, 사용자 경험을 개선할 수 있는 UI 구조와 컴포넌트 설계에 관심이 많습니다.
-
-꾸준히 프로젝트를 진행하며 문제를 해결하는 과정을 기록하고, 더 나은 화면과 코드를 만들기 위해 성장하고 있습니다.
+단순히 기능이 동작하는 화면을 만드는 것에 그치지 않고, 사용자가 서비스를 이해하고 이용하는 **흐름**까지 고민하는 개발자가 되고자 합니다.<br>
+현재 **React**와 **Next.js**를 중심으로 웹 프론트엔드를 학습하고 있으며, 더 나은 **사용자 경험**과 **컴포넌트 설계**에 관심을 가지고 성장하고 있습니다.
 
 <br>
+
+<div align="center">
+    
+### 📫 Contact
+
+  <a href="https://jskim6335.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF6B00?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="mailto:jskim6335@naver.com">
+    <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+  <a href="mailto:jskim6335@gmail.com">
+    <img src="https://img.shields.io/badge/Google_Mail-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jskim6335">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</div>
 
 <div align = "center" >
 
