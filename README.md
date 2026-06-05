@@ -1,55 +1,84 @@
-# 프론트엔드 개발자 김진성입니다. 👋
+<div align="center">
+    <img width="1529" height="558" alt="image" src="https://github.com/user-attachments/assets/eb5a0331-a38f-44d7-a6c7-060298636075" />
+</div>
 
-## 사용자의 시각에서 먼저 생각합니다. 💭🤔
+# 😎 프론트엔드 개발자 김진성입니다
 
-> 기능 구현에 그치지 않고, 사용자 흐름을 먼저 고민하는 UI/UX 중심의 개발을 추구합니다.
-> 
+안녕하세요! UI/UX에 관심이 많은 프론트엔드 개발자 김진성입니다.<br>
+저는 제가 만든 화면이 사용자와 소통하고, 서비스가 전달하고자 하는 가치를 자연스럽게 보여줄 때 가장 큰 보람을 느낍니다.
 
-## 함께일 때 더 큰 가치를 만들어낼 수 있다고 생각합니다. 👨‍👩‍👧‍👦
+단순히 기능이 동작하는 화면을 만드는 것에 그치지 않고, 사용자가 서비스를 이해하고 이용하는 흐름까지 고민하는 개발자가 되고자 합니다.<br>
+React와 Next.js를 중심으로 웹 프론트엔드를 학습하고 있으며, 사용자 경험을 개선할 수 있는 UI 구조와 컴포넌트 설계에 관심이 많습니다.
 
-> 코드 리뷰와 협업 프로세스를 통해 팀과 함께 성장하는 개발 문화를 중요하게 생각합니다.
-> 
+꾸준히 프로젝트를 진행하며 문제를 해결하는 과정을 기록하고, 더 나은 화면과 코드를 만들기 위해 성장하고 있습니다.
 
-## 배움에는 끝이 없습니다. 📝
+<br>
 
-> 부족한 것이 있다면 더 열심히 배운다는 마인드로 성장 중입니다.
-배운 것을 정리하는 [블로그](https://jskim6335.tistory.com/)를 운영하고 있습니다.
->
+<div align = "center" >
+
+### 🛠 Tech Skill
+
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+
+<br>
+
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/styled_components-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/tanstack_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/framer_motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+<br><br>
+
+</div>
+
+<div align="center">
+
+  ### 🤝 Collaboration Tools
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
+<img src="https://img.shields.io/badge/figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br><br>
+
+### 💻 Projects
+| 프로젝트명 | 설명 | 기간 | 비고 |
+|-----------|------|------|------|
+| [**JINLOG**](https://github.com/smileman62/JINLOG) | 배움과 성장을 기록하는 블로그 입니다. | 2026.05 ~ | 개발 중 |
+| [**My9LifeAnime**](https://github.com/smileman62/My9AnimeList-FE) | 내 인생 애니메이션을 딱 9가지만 고른다면? | 2026.05 ~ | 개발 중 |
+| [**Nova**](https://github.com/NOVA-9th/nova-fe) | AI 기반 맞춤형 개발자 뉴스 피드 서비스 | 2025.12 ~ 2026.02 | |
+| [**ECONFLIP**](https://github.com/smileman62/ECONFLIP-FE) | 매일 하루 가볍게 공부하는 경제용어 학습 플랫폼 | 2025.12 | 최우수상 |
+| [**MCP Hub**](https://github.com/smileman62/mcp-hub-FE) | MCP를 쉽고 빠르게 검색 & 사용하는 플랫폼 | 2025.09 ~ 2025.10 |  |
+| [**PerfumeOnMe**](https://github.com/smileman62/Front-end) | 나만의 향기를 찾아주는 맞춤형 향기 경험 플랫폼 | 2025.06 ~ 2025.08 | 최우수상 |
+
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=smileman62&hide=stars&count_private=true&show_icons=true&theme=dracula&line_height=28" height="165"/>
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=smileman62&theme=dracula&layout=compact" height="165"/>
+</p>
 
 <!--
-**smileman62/smileman62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smileman62&theme=nord_dark)
 -->
 
-###
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=smileman62.smileman62&"  />
-</div>
-
-###
-
-<div align="center" display="absolute">
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/987903f3-041d-4fe1-9a46-804a4b217f47" />
 </div>
