@@ -31,6 +31,8 @@
 
 </div>
 
+<br><br>
+
 <div align = "center" >
 
 ### 🛠 Tech Skill
@@ -57,9 +59,9 @@
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 <img src="https://img.shields.io/badge/framer_motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
-<br><br>
-
 </div>
+
+<br><br>
 
 <div align="center">
 
